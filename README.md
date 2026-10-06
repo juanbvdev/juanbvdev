@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Juan 👋
 
-<!--
-**juanbvdev/juanbvdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer building web systems, automations and custom business solutions.**
 
-Here are some ideas to get you started:
+Desenvolvo sistemas, automações e soluções sob medida para empresas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on turning manual processes, operational bottlenecks and repetitive tasks into software that is simple, reliable and useful.
+
+## What I build
+
+- Custom web systems
+- Internal business tools
+- Admin dashboards
+- Process automations
+- API integrations
+- Landing pages and web applications
+
+## Tech stack
+
+**Frontend**  
+React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+
+**Backend & Data**  
+Supabase · PostgreSQL · SQL · APIs
+
+**Tools**  
+Git · GitHub · Vite · VS Code
+
+## Featured project
+
+### Surf School Management System — Primeira Onda OPS
+
+Operational management platform developed for a real surf school.
+
+The system centralizes processes that were previously handled manually, including student management, plans, team access, scheduling and role-based permissions.
+
+**Stack:** React · TypeScript · Supabase · PostgreSQL · Tailwind CSS
+
+> Full case study coming soon.
+
+## Current focus
+
+Building practical software for businesses and creating solutions that improve real operational workflows.
