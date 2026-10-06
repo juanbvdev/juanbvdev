@@ -36,7 +36,7 @@ The system centralizes processes that were previously handled manually, includin
 
 **Stack:** React · TypeScript · Supabase · PostgreSQL · Tailwind CSS
 
-> Full case study coming soon.
+[→ View the full case study](https://github.com/juanbvdev/primeira-onda-ops-portfolio)
 
 ## Current focus
 
